@@ -1,3 +1,11 @@
+package com.example.alex.myapplication;
+
+/**
+ * Created by Alex on 10/22/2017.
+ */
+
+//Analyze
+
 import java.util.*;
 
 public class Analyze{
